@@ -1,0 +1,627 @@
+Received: by 10.27.79.201 with SMTP id d192csp273047wlb; Mon, 22 Dec 2014
+ 15:17:29 -0800 (PST)
+Received: from postal1.name.com (postal1.name.com. [38.97.225.223]) by
+ mx.google.com with ESMTP id tm2si11439753oeb.24.2014.12.22.15.17.25 for
+ <alex.california@gmail.com>; Mon, 22 Dec 2014 15:17:27 -0800 (PST)
+Received: from localhost.localdomain (web1l3pci [10.148.33.11]) by
+ postal1.name.com (Postfix) with ESMTP id 34C4A3007C1B for
+ <alex.california@gmail.com>; Mon, 22 Dec 2014 16:17:25 -0700 (MST)
+Return-Path: <support@name.com>
+From: "Name.com Support" <support@name.com>
+To: <alex.california@gmail.com>
+Subject: Name.com - Order Confirmation - 7794620
+Date: Mon, 22 Dec 2014 16:17:25 -0700
+Message-ID: <a15fbba52548e8208c4a9d367f63188d@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000F_01D0A072.1927D0A0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdAePXR+LtdTAzAIRAmMAnULomGPdw==
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000F_01D0A072.1927D0A0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+		=09
+=09
+=09
+ <http://www.name.com> name.com =09
+=09
+
+
+
+Order Confirmation
+
+Dear alxname,
+
+Thanks for choosing Name.com! If you have any questions about your =
+order,
+don't hesitate to contact our support team at support@name.com, or give =
+us a
+call at 1.720.249.2374, Monday through Friday, 8 a.m. to 6 p.m. GMT-7.
+
+Account User Name: alxname
+Invoice ID: 7794620
+Invoice Amount: $17.58
+
+
+
+
+  ORDER SUMMARY
+
+TYPE=20
+
+TERM=20
+
+PRICE=20
+
+STATUS=20
+
+
+  studioaltea.com
+
+Renewal
+
+1 year(s)
+
+$8.79
+
+Success=20
+
+
+  manotech.com
+
+Renewal
+
+1 year(s)
+
+$8.79
+
+Success=20
+
+
+  manotech.com
+
+Whois Privacy Renewal
+
+1 year(s)
+
+$0.00
+
+Success=20
+
+
+  studioaltea.com
+
+Whois Privacy Renewal
+
+1 year(s)
+
+$0.00
+
+Success=20
+
+
+Click to MANAGE <https://www.name.com/account/domain>  or RENEW
+<https://www.name.com/account/domain>  your items from inside your =
+account.=20
+You can also View Your Invoice Online
+<https://www.name.com/management/view_invoice.php?id=3D7794620>=20
+
+You can review your transactions and manage your domains at any time. =
+Simply
+log in to your account and navigate through your account settings using =
+the
+menu at the top of the screen, or click directly on the domain you wish =
+to
+manage. Again, thanks for choosing Name.com.=20
+
+
+
+
+Questions? Comments? Hit us up at +1.720.249.2374 or support@name.com=20
+
+ Sincerely, the Name.com team
+<http://www.name.com/media/email/name.com-email-signature.png>=20
+ <http://www.name.com>=20
+
+
+ name.com =
+<http://www.name.com/media/logos/name-logo-green-gray-small.jpg>=20
+WEBSITES. DOMAINS. HOSTING.=20
+
+Get to know Name.com!
+<http://www.facebook.com/namedotcom?utm_source=3Dbackend_email&utm_medium=
+=3Dfb_i
+con&utm_campaign=3D8.13_email_template> Our Facebook
+<http://www.twitter.com/namedotcom?utm_source=3Dbackend_email&utm_medium=3D=
+tw_ic
+on&utm_campaign=3D8.13_email_template> Our Twitter
+<http://www.youtube.com/namedotcom?utm_source=3Dbackend_email&utm_medium=3D=
+yt_ic
+on&utm_campaign=3D8.13_email_template> Our Youtube
+<http://www.name.com/blog?utm_source=3Dbackend_email&utm_medium=3Dblog_ic=
+on&utm_
+campaign=3D8.13_email_template> Our Blog=20
+
+=09
+=09
+		=09
+
+ <http://www.name.com/name> Domain Names and
+<http://www.name.com/best-web-hosting> Web Hosting by  =
+<http://www.name.com>
+name.com
+=A9 2001-2014 All Rights Reserved. Name.com is a registered trademark of
+<http://www.name.com/> Name.com Inc.
+2500 East Second Avenue, 2nd Floor | Denver, Colorado 80206=20
+
+
+------=_NextPart_000_000F_01D0A072.1927D0A0
+Content-Type: text/html;
+	boundary="b1_a15fbba52548e8208c4a9d367f63188d";
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D'http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv=3D'Content-Type' content=3D'text/html; charset=3Dutf-8' =
+/>
+<meta name=3D'viewport' content=3D'width=3Ddevice-width, =
+initial-scale=3D1.0'/>
+</head>
+<body style=3D'width:100% !important; -webkit-text-size-adjust:100%; =
+-ms-text-size-adjust:100%; margin: 0; padding:0;'>
+<table id=3D"backgroundTable" style=3D"font-family:Arial,sans serif; =
+border-collapse:collapse; mso-table-lspace:0pt; =
+mso-table-rspace:0pt;width:100%!important; line-height: 100%!important; =
+background:white;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    <tbody><tr>
+            <td style=3D"border-collapse: collapse;" valign=3D"top">=20
+                <table style=3D"border-collapse:collapse; =
+border-spacing:0; mso-table-lspace:0pt; mso-table-rspace:0pt; margin: =
+50px auto 10px auto;" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+                    <tbody>
+                       <tr>
+	                        <td =
+background=3D"http://www.name.com/media/email/left-corner3.png" =
+width=3D"16" height=3D"16" =
+style=3D"background:url(http://www.name.com/media/email/left-corner3.png)=
+; background-repeat: no-repeat;"></td>
+	                        <td =
+background=3D"http://www.name.com/media/email/top-shadow2.png" =
+style=3D"background:url(http://www.name.com/media/email/top-shadow2.png);=
+ background-repeat:repeat-x;" height=3D"16" valign=3D"top"><!-- bottom =
+shadow --></td>
+	                        <td =
+background=3D"http://www.name.com/media/email/right-corner3.png" =
+width=3D"16" height=3D"16" =
+style=3D"background:url(http://www.name.com/media/email/right-corner3.png=
+); background-repeat: no-repeat;"></td>
+	                    </tr>
+	                    <tr>
+                            <td =
+background=3D"http://www.name.com/media/email/left-shadow2.png" =
+style=3D"background:url(http://www.name.com/media/email/left-shadow2.png)=
+; border-collapse: collapse;" valign=3D"top" width=3D"16">
+                                <!-- top left shadow cell -->
+
+                             <!--   <img =
+src=3D"http://www.name.com/media/email/shadow-top-left.jpg" alt=3D"" =
+style=3D"height:405px; width:16px; outline:none; text-decoration:none; =
+-ms-interpolation-mode: bicubic;" height=3D"405"> -->
+                            </td>
+                            <td style=3D"border-collapse: collapse; =
+border:1px solid #b7b7b7;" valign=3D"top">
+                                <!-- begin logo / header banner table =
+-->
+                                <table =
+style=3D"border-collapse:collapse; mso-table-lspace:0pt; =
+mso-table-rspace:0pt;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600">
+                                    <tbody>
+                                     	<tr>
+	                                       <td style=3D"border-collapse: =
+collapse;" bgcolor=3D"#ffffff" height=3D"10"><!-- spacer row --></td>
+	                                    </tr>
+                                   =20
+                                        <tr>
+                                            <td =
+style=3D"border-collapse: collapse;" align=3D"right" bgcolor=3D"#ffffff" =
+height=3D"35" valign=3D"middle">
+                                                                         =
+                       	<a href=3D"http://www.name.com" =
+alt=3D"name.com"><img =
+src=3D"http://www.name.com/media/logos/name-logo-green-gray-small.jpg" =
+alt=3D"name.com" title=3D"name.com" style=3D"padding-top:12px; =
+padding-bottom:3px; padding-right:22px; outline:none; =
+text-decoration:none; -ms-interpolation-mode: bicubic;" =
+height=3D"25"></a>=20
+                                                                         =
+                   </td>
+                                        </tr>
+                                       =20
+	                                    <tr>
+	                                       <td style=3D"border-collapse: =
+collapse;" bgcolor=3D"#ffffff" height=3D"5"><!-- spacer row --></td>
+	                                    </tr>
+
+                                        <tr>                 =20
+	                                        	                               =
+                 <td =
+background=3D"http://www.name.com/media/email/greenbar2.jpg" =
+style=3D"background: url(http://www.name.com/media/email/greenbar2.jpg); =
+background-repeat:repeat-x; background-color:#79b208; border-collapse: =
+collapse;" height=3D"99"><h1 style=3D"font-family:Arial, =
+sans-serif;font-size:24px;color:#ffffff;margin-left:0px;margin-top:0;marg=
+in-right:20px;margin-bottom:0;line-height:32px;"><center>Order =
+Confirmation</center></h1></td>
+	                                                                        =
+       =20
+                                       =20
+		                                        <!-- td style=3D"background: =
+url(http://www.name.com/media/email/namebanner-right.jpg); =
+background-repeat:repeat-x; background-color:#79b208; border-collapse: =
+collapse;" height=3D"99">
+		                                        <td =
+style=3D"background-color:#79b208; border-collapse: collapse;" =
+height=3D"99">
+		                                                <h1 =
+style=3D"font-family:Arial, =
+sans-serif;font-size:24px;color:#ffffff;margin-left:10px;margin-top:0;mar=
+gin-right:0;margin-bottom:0;line-height:32px;">Order Confirmation</h1>
+		                                        </td> -->
+                                        </tr>
+                                	</tbody>
+                                </table>
+                                <!-- end logo / header banner table -->
+	                            <!-- content table -->
+                                <table =
+style=3D"border-spacing:0!important; border-collapse: =
+collapse!important; mso-table-lspace:0pt; =
+mso-table-rspace:0pt;background:white!important;" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+                                    <tbody>
+                                    =20
+                                        <tr>
+                                            <td =
+style=3D"border-collapse: collapse; padding: 15px 28px 5px 28px; =
+line-height: 20px; font-size: 14px;">
+	                                                                        =
+  =20
+                                                Dear alxname,<br/>
+<br/>
+Thanks for choosing Name.com!=20
+If you have any questions about your order, don&#39;t hesitate to =
+contact our support team at support@name.com, or give us a call at =
+1.720.249.2374, Monday through Friday, 8 a.m. to 6 p.m. GMT-7.<br>
+<br>
+<b>Account User Name:</b> alxname<br>
+<b>Invoice ID:</b> 7794620<br>
+<b>Invoice Amount:</b> $17.58<br>
+<br>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"width:540px;">
+	<tr style=3D"background:#6f6e72;border:1px solid #6f6e72;">
+		<td style=3D"height:12px;border-right:1px solid =
+#959498;width:215px;"><p =
+style=3D"line-height:12px;color:white;font-size:14px;"><b>&nbsp;&nbsp;ORD=
+ER SUMMARY</b></p></td>
+		<td style=3D"height:12px;border-right:1px solid =
+#959498;width:115px;"><center><p =
+style=3D"line-height:12px;color:white;font-size:12px;"><b>TYPE</b>	=
+</p></center></td>
+		<td style=3D"height:12px;border-right:1px solid =
+#959498;width:70px;"><center><p =
+style=3D"line-height:12px;color:white;font-size:12px;"><b>TERM</b>	=
+</p></center></td>
+		<td style=3D"height:12px;border-right:1px solid =
+#959498;width:70px;"><center><p =
+style=3D"line-height:12px;color:white;font-size:12px;"><b>PRICE</b>	=
+</p></center></td>
+		<td style=3D"height:12px;width:70px;"><center><p =
+style=3D"line-height:12px;color:white;font-size:12px;"><b>STATUS</b>	=
+</p></center></td>
+	</tr>
+		<tr style=3D"border:1px solid #c3c3c3; background:#f5f5f5;">
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;border-left:1px solid =
+#959498;"><p =
+style=3D"line-height:12px;color:black;font-size:11px;">&nbsp;&nbsp;studio=
+altea.com</p></td>
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">Renewal</p></td>		=
+	<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">1 =
+year(s)</p></center></td>			<td style=3D"height:8px;border-right:1px =
+solid #959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">$8.79</p></center>=
+</td>			<td style=3D"height:8px;width: 70px; font-size: 11px; =
+border-bottom:1px solid #959498; border-right: 1px solid =
+#959498;background-color:#f5f5f5;">
+			<center>
+				<p style=3D"margin: 0px!important; padding: 10px 0 10px 0; =
+color:#8dc63f;">
+					<b>Success</b>
+				</p>
+			</center>
+		</td>		</tr>
+		<tr style=3D"border:1px solid #c3c3c3; background:#f5f5f5;">
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;border-left:1px solid =
+#959498;"><p =
+style=3D"line-height:12px;color:black;font-size:11px;">&nbsp;&nbsp;manote=
+ch.com</p></td>
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">Renewal</p></td>		=
+	<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">1 =
+year(s)</p></center></td>			<td style=3D"height:8px;border-right:1px =
+solid #959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">$8.79</p></center>=
+</td>			<td style=3D"height:8px;width: 70px; font-size: 11px; =
+border-bottom:1px solid #959498; border-right: 1px solid =
+#959498;background-color:#f5f5f5;">
+			<center>
+				<p style=3D"margin: 0px!important; padding: 10px 0 10px 0; =
+color:#8dc63f;">
+					<b>Success</b>
+				</p>
+			</center>
+		</td>		</tr>
+		<tr style=3D"border:1px solid #c3c3c3; background:#f5f5f5;">
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;border-left:1px solid =
+#959498;"><p =
+style=3D"line-height:12px;color:black;font-size:11px;">&nbsp;&nbsp;manote=
+ch.com</p></td>
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">Whois Privacy =
+Renewal</p></td>			<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">1 =
+year(s)</p></center></td>			<td style=3D"height:8px;border-right:1px =
+solid #959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">$0.00</p></center>=
+</td>			<td style=3D"height:8px;width: 70px; font-size: 11px; =
+border-bottom:1px solid #959498; border-right: 1px solid =
+#959498;background-color:#f5f5f5;">
+			<center>
+				<p style=3D"margin: 0px!important; padding: 10px 0 10px 0; =
+color:#8dc63f;">
+					<b>Success</b>
+				</p>
+			</center>
+		</td>		</tr>
+		<tr style=3D"border:1px solid #c3c3c3; background:#f5f5f5;">
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;border-left:1px solid =
+#959498;"><p =
+style=3D"line-height:12px;color:black;font-size:11px;">&nbsp;&nbsp;studio=
+altea.com</p></td>
+		<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">Whois Privacy =
+Renewal</p></td>			<td style=3D"height:8px;border-right:1px solid =
+#959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">1 =
+year(s)</p></center></td>			<td style=3D"height:8px;border-right:1px =
+solid #959498;border-bottom:1px solid #959498;"><center><p =
+style=3D"line-height:12px;color:black;font-size:11px;">$0.00</p></center>=
+</td>			<td style=3D"height:8px;width: 70px; font-size: 11px; =
+border-bottom:1px solid #959498; border-right: 1px solid =
+#959498;background-color:#f5f5f5;">
+			<center>
+				<p style=3D"margin: 0px!important; padding: 10px 0 10px 0; =
+color:#8dc63f;">
+					<b>Success</b>
+				</p>
+			</center>
+		</td>		</tr>
+	</table>
+
+
+<br>
+<p>Click to <a href=3D"https://www.name.com/account/domain">MANAGE</a> =
+or <a href=3D"https://www.name.com/account/domain">RENEW</a> your items =
+from inside your account.
+<br>
+You can also <a =
+href=3D'https://www.name.com/management/view_invoice.php?id=3D7794620'>Vi=
+ew Your Invoice Online</a><br>
+<br>
+You can review your transactions and manage your domains at any time. =
+Simply log in to your account and navigate through your account settings =
+using the menu at the top of the screen, or click directly on the domain =
+you wish to manage.  Again, thanks for choosing Name.com.
+<br>
+<br>
+	                                           =20
+	                                           =20
+                                                <p =
+style=3D"font-size:14px; line-height:24px; margin:0;">
+                                                	Questions? Comments? =
+Hit us up at +<span class=3D"mobile_link">1.720.249.2374</span> or =
+support@name.com                                                </p>
+                                                <img =
+src=3D"http://www.name.com/media/email/name.com-email-signature.png" =
+style=3D"float:left; padding: 15px 0 15px 0; outline:none; =
+text-decoration:none; -ms-interpolation-mode: bicubic;" =
+alt=3D"Sincerely, the Name.com team" title=3D"Sincerely, the Name.com =
+team" height=3D"62" width=3D"224">
+                                               =20
+                                            </td>
+                                       </tr>
+                                    </tbody> =20
+                                </table>    =20
+                                      =20
+
+                                                           <table =
+background=3D"http://www.name.com/media/email/footer1a.png" =
+style=3D"background:url(http://www.name.com/media/email/footer1a.png); =
+background-repeat: no-repeat; border-spacing:0!important; =
+border-collapse: collapse!important; mso-table-lspace:0pt; =
+mso-table-rspace:0pt;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600" height=3D"106">
+                                    <tbody> =20
+                                       <tr> 							=09
+                                           <td style=3D"border-collapse: =
+collapse;" valign=3D"top" width=3D"259" height=3D"106">     =20
+		                                            =20
+			                                             <a =
+href=3D"http://www.name.com" alt=3D"name.com" style=3D"text-decoration: =
+none!important;">
+			                                              	<p style=3D"color: =
+#919192; font-size:10px;">
+			                                               		<img =
+src=3D"http://www.name.com/media/logos/name-logo-green-gray-small.jpg" =
+alt=3D"name.com" title=3D"name.com" style=3D"outline:none; =
+text-decoration:none; -ms-interpolation-mode: bicubic; padding-bottom: =
+3px; padding-top: 25px; padding-left: 40px;" height=3D"23" =
+width=3D"200">
+														   		<br/><span style=3D"padding-left: 80px;">WEBSITES. =
+DOMAINS.  HOSTING.</span>
+														   	</p>
+			                                             </a>
+													 =09
+										   </td>	=20
+										   <td =
+background=3D"http://www.name.com/media/email/greensocial2.png" =
+style=3D"border-collapse: collapse!important; mso-table-lspace:0pt; =
+mso-table-rspace:0pt; background-color: #8dc63f; =
+background:url(http://www.name.com/media/email/greensocial2.png); =
+background-repeat: no-repeat;" valign=3D"top" width=3D"162" =
+height=3D"106">
+												 <p style=3D"color:white; font-size: 14px; padding: 14px =
+26px;">
+												   	<span style=3D"padding-bottom: 5px;"><strong>Get to know =
+Name.com!</strong></span>
+												   		<a =
+href=3D"http://www.facebook.com/namedotcom?utm_source=3Dbackend_email&utm=
+_medium=3Dfb_icon&utm_campaign=3D8.13_email_template"><img =
+src=3D"http://www.name.com/media/email/facebookicon.png" =
+style=3D"outline:none; text-decoration:none; -ms-interpolation-mode: =
+bicubic; border:none; float:left; padding: 6px 1px;" alt=3D"Our =
+Facebook" title=3D"Our Facebook" height=3D"35" width=3D"35"></a>
+				                                        <a =
+href=3D"http://www.twitter.com/namedotcom?utm_source=3Dbackend_email&utm_=
+medium=3Dtw_icon&utm_campaign=3D8.13_email_template"><img =
+src=3D"http://www.name.com/media/email/twittericon.png" =
+style=3D"outline:none; text-decoration:none; -ms-interpolation-mode: =
+bicubic; border:none; float:left; padding: 6px 1px;" alt=3D"Our Twitter" =
+title=3D"Our Twitter" height=3D"35" width=3D"35"></a>
+				                                        <a =
+href=3D"http://www.youtube.com/namedotcom?utm_source=3Dbackend_email&utm_=
+medium=3Dyt_icon&utm_campaign=3D8.13_email_template"><img =
+src=3D"http://www.name.com/media/email/youtubeicon.png" =
+style=3D"outline:none; text-decoration:none; -ms-interpolation-mode: =
+bicubic; border:none; float:left; padding: 6px 1px;" alt=3D"Our Youtube" =
+title=3D"Our Youtube" height=3D"35" width=3D"35"></a>=20
+				                                        <a =
+href=3D"http://www.name.com/blog?utm_source=3Dbackend_email&utm_medium=3D=
+blog_icon&utm_campaign=3D8.13_email_template"><img =
+src=3D"http://www.name.com/media/email/rssicon.png" =
+style=3D"outline:none; text-decoration:none; -ms-interpolation-mode: =
+bicubic; border:none; float:left; padding: 6px 1px;" alt=3D"Our Blog" =
+title=3D"Our Blog" height=3D"35" width=3D"35"></a>
+		                                         </p>
+										   </td>   =20
+                                           <td valign=3D"top" =
+width=3D"25" height=3D"106">
+										   </td>=20
+                                        </tr>
+                                   </tbody>
+                                </table><!-- end content table -->
+                                               =20
+                                                                         =
+
+
+                            </td>
+                            <td =
+background=3D"http://www.name.com/media/email/right-shadow2.png" =
+style=3D"background:url(http://www.name.com/media/email/right-shadow2.png=
+); border-collapse: collapse;" valign=3D"top" width=3D"16">
+
+                                <!-- top right shadow cell -->
+                                <!--<img class=3D"image_fix" =
+src=3D"http://www.name.com/media/email/shadow-top-right.jpg" alt=3D"" =
+style=3D"height:405px; width:14px; outline:none; text-decoration:none; =
+-ms-interpolation-mode: bicubic;">-->
+
+                            </td>
+                        </tr>
+                        <tr>
+	                        <td =
+background=3D"http://www.name.com/media/email/left-corner2.png" =
+width=3D"16" height=3D"16" =
+style=3D"background:url(http://www.name.com/media/email/left-corner2.png)=
+; background-repeat: no-repeat;"></td>
+	                        <td =
+background=3D"http://www.name.com/media/email/bottom-shadow2.png" =
+style=3D"background:url(http://www.name.com/media/email/bottom-shadow2.pn=
+g); background-repeat:repeat-x;" height=3D"16" valign=3D"top"><!-- =
+bottom shadow --></td>
+	                        <td =
+background=3D"http://www.name.com/media/email/right-corner2.png" =
+width=3D"16" height=3D"16" =
+style=3D"background:url(http://www.name.com/media/email/right-corner2.png=
+); background-repeat: no-repeat;"></td>
+	                    </tr>
+                    </tbody>
+                </table>
+                       <table style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto 20px auto; =
+background: white;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600" align=3D"center">
+                                    <tbody>
+                                        <tr>
+	                                        <td style=3D"border-collapse: =
+collapse;" align=3D"center" bgcolor=3D"white" height=3D"45" =
+width=3D"600" valign=3D"middle">                                         =
+       											=09
+	                                        		<p style=3D"font-size: 10px; =
+line-height: 11px; color:#afafaf!important;">
+		                                                <a =
+href=3D"http://www.name.com/name" style=3D"color:#afafaf!important;"> =
+<span style=3D"color:#afafaf!important;">Domain Names</span></a>=20
+		                                                and=20
+		                                                <a =
+href=3D"http://www.name.com/best-web-hosting" =
+style=3D"color:#afafaf!important;"><span =
+style=3D"color:#afafaf!important;">Web Hosting</span></a>=20
+		                                                by=20
+		                                                <a =
+href=3D"http://www.name.com" style=3D"color:#afafaf!important;"><span =
+style=3D"color:#afafaf!important;">name.com</span></a><br>&copy; =
+2001-2014 All Rights Reserved. Name.com is a registered trademark of=20
+		                                                <a =
+href=3D"http://www.name.com/" style=3D"color:#afafaf!important"><span =
+style=3D"color:#afafaf!important;">Name.com</span></a> Inc.<br>2500 East =
+Second Avenue, 2nd Floor | Denver, Colorado 80206
+	                                                </p>=20
+	                                        </td>
+                                        </tr>
+                                     </tbody>
+                       </table>                     =20
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
+
+
+------=_NextPart_000_000F_01D0A072.1927D0A0--
